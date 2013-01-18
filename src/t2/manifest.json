@@ -1,0 +1,21 @@
+{
+"name": "T-Square",
+"description": "Pointer to t2.gatech.edu",
+"version": "2",
+"manifest_version": 2,
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"https://t-square.gatech.edu/portal"
+],
+"launch": {
+"web_url": "https://t-square.gatech.edu/portal"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
