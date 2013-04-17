@@ -1,0 +1,21 @@
+{
+"name": "Facebook",
+"description": "Pointer to Facebook",
+"version": "2",
+"manifest_version": 2,
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"https://www.facebook.com/"
+],
+"launch": {
+"web_url": "https://www.facebook.com/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
