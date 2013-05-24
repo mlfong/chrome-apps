@@ -1,0 +1,21 @@
+{
+"name": "Instagram",
+"description": "Pointer to Instagram",
+"version": "2",
+"manifest_version": 2,
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"http://instagram.com/"
+],
+"launch": {
+"web_url": "http://instagram.com/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
