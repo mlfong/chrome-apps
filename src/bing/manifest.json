@@ -1,0 +1,21 @@
+{
+"name": "Bing",
+"description": "Pointer to bing.com",
+"version": "2",
+"manifest_version": 2,
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"http://www.bing.com/"
+],
+"launch": {
+"web_url": "http://www.bing.com/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
